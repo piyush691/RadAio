@@ -1,6 +1,6 @@
 # radiao
 
-A new Flutter application.
+Radio App based on flutter with AI Voice assistant Alan. 
 
 ## Getting Started
 
