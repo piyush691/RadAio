@@ -1,6 +1,7 @@
 # RadAio
 
-Radio App based on flutter with AI Voice assistant Alan. 
+Mobile Radio app based on Flutter and added functionalities like listening music with 6+ Music Channels and easily interacts with an app with AI Voice
+Assistant ALAN.
 
 
 # Screenshots
